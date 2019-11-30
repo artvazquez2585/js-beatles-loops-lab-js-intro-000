@@ -1,6 +1,6 @@
 // add solution here
-function theBeatlesPlay(musicians,instruments){
-var array=[];
+function theBeatlesPlay(musicians, instruments) {
+var array = [];
   for(let i=0;i===musicians.length;i++){
     let musician = musicians[i];
     let instrument = instruments[i];
