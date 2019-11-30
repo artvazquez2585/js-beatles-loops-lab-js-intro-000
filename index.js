@@ -10,7 +10,7 @@ var array = [];
 }
 
 function johnLennonFacts(facts){
-  while(i<facts.length){
+  while(let i<facts.length){
     facts[i]=facts[i]+"!!!";
     i++
   }
