@@ -22,7 +22,6 @@ function iLoveTheBeatles(num){
   var array=[];
   do{
     array[num]="I love the Beatles!";
-
     num++
 
 
